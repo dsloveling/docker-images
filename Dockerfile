@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/workflow-controller:v2.12.9-license-compliance
+From gcr.io/ml-pipeline/inverse-proxy-agent:1.5.0
