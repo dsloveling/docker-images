@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/inverse-proxy-agent:1.5.0
+From gcr.io/ml-pipeline/metadata-writer:1.5.0
