@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/metadata-envoy:1.5.0
+From gcr.io/ml-pipeline/argoexec:v2.12.9-license-compliance
