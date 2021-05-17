@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
+From gcr.io/ml-pipeline/cache-server:1.5.0
