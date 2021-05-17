@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/metadata-writer:1.5.0
+From gcr.io/tfx-oss-public/ml_metadata_store_server:0.25.1
