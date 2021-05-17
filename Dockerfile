@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/visualization-server:1.5.0
+From gcr.io/ml-pipeline/mysql:5.7
