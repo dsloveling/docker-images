@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/argoexec:v2.12.9-license-compliance
+From seldonio/seldon-core-executor:1.8.0
